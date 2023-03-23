@@ -14,7 +14,7 @@ My research interests include computer vision, deep learning, and their downstre
 
 Before joining Rice, I received my M.S. degree at [Ewha Womans [sic] University](https://www.ewha.ac.kr/ewhaen/index.do). My master's thesis concerned quality-adaptive compression artifact removal by exploiting domain adaptation and reinforcement learning. 
 
-I am so grateful and lucky to have [Dr. Jewon Kang](https://sagittak.wixsite.com/icplab/professor) as my thesis advisor and to have opportunities to collaborate with members of the [Information Coding and Processing Lab. (ICPL)](https://sagittak.wixsite.com/icplab)
+I am so grateful and lucky to have [Prof. Jewon Kang](https://sagittak.wixsite.com/icplab/professor) as my thesis advisor and to have opportunities to collaborate with members of the [Information Coding and Processing Lab. (ICPL)](https://sagittak.wixsite.com/icplab)
 
 Updates
 ======
