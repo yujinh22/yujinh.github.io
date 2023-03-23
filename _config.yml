@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yujin Ham"
 title_separator          : "-"
-name                     : &name "Yujin Ham (함유진)"
+name                     : &name "Yujin Ham"
 description              : &description "Ph.D. student in Electrical and Computer Enginnering"
 url                      : https://yujinh22.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yujin Ham"
+  name             : "Yujin Ham (함유진)"
   avatar           : "profile.png"
   bio              : "Ph.D. student in Electrical and Computer Enginnering"
   location         : "Houston, Texas"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "YujinHam_22"
+  twitter          :
   vine             :
   weibo            :
   xing             :
