@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Yujin Ham, a first-year Ph.D. student in Electrical and Computer Engineering at Rice University.
+Hi! I am Yujin Ham, a first-year Ph.D. student in [Electrical and Computer Engineering](https://eceweb.rice.edu/) at [Rice University](https://www.rice.edu/).
 
 My research interests include computer vision, deep learning, and their downstream applications in healthcare.
 
-Before joining Rice, I received my M.S. degree at Ewha Womans [sic] University. My master's thesis concerned quality-adaptive compression artifact removal by exploiting domain adaptation and reinforcement learning. 
+Before joining Rice, I received my M.S. degree at [Ewha Womans [sic] University](https://www.ewha.ac.kr/ewhaen/index.do). My master's thesis concerned quality-adaptive compression artifact removal by exploiting domain adaptation and reinforcement learning. 
 
-I am so grateful and lucky to have Dr. Jewon Kang as my thesis advisor and to have opportunities to collaborate with members of the Information Coding and Processing Lab. (ICPL)
+I am so grateful and lucky to have [Dr. Jewon Kang](https://sagittak.wixsite.com/icplab/professor) as my thesis advisor and to have opportunities to collaborate with members of the [Information Coding and Processing Lab. (ICPL)](https://sagittak.wixsite.com/icplab)
 
 Updates
 ======
