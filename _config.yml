@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yujin Ham (함유진)"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://yujinh.github.io
+name                     : &name "Yujin Ham"
+description              : &description "Ph.D. student in Electrical and Computer Enginnering"
+url                      : https://yujinh22.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yujinh22/yujinh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Yujin Ham"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Houston, Texas"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "Yujin.Ham [AT] rice [dot] edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "yujinh22"
   google_plus      :
   keybase          :
   instagram        :
