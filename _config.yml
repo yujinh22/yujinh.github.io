@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yujin Ham (함유진)"
+title                    : "Yujin Ham"
 title_separator          : "-"
-name                     : &name "Yujin Ham"
+name                     : &name "Yujin Ham (함유진)"
 description              : &description "Ph.D. student in Electrical and Computer Enginnering"
 url                      : https://yujinh22.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
