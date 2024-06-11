@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: http://yujinh22.github.io/files/Yujin_CV_20221205.pdf
 author_profile: true
 redirect_from:
   - /resume
