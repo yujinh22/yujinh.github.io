@@ -1,7 +1,7 @@
 ---
 title: "Training Compression Artifacts Reduction Network with Domain Adaptation"
 collection: publications
-permalink: /publication/dragon
+permalink: /publication/carn
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-08-01
 venue: 'SPIE Optical Engineering + Applications'
