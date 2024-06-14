@@ -1,7 +1,7 @@
 ---
 title: "DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/dragon
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: July, 2024
 venue: ICCP 2024
