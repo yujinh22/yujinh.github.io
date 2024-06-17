@@ -1,10 +1,13 @@
 ---
 layout: archive
-title: "CV"
-permalink: http://yujinh22.github.io/files/Yujin_CV_20221205.pdf
+title: "Curriculum Vitae"
+permalink: '/files/Yujin_CV_20221205.pdf'
 author_profile: true
 redirect_from:
   - /resume
+  - /resume/
+  - /cv
+  - /cv/
 ---
 
 {% include base_path %}
