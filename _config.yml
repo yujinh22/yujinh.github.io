@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yujin Ham"
 title_separator          : "-"
 name                     : &name "Yujin Ham"
-description              : &description "Ph.D. student in Electrical and Computer Enginnering"
+description              : &description "Ph.D. student in Electrical and Computer Enginnering at Rice University; M.S (2022) and B.S (2020) in EE, Ewha Womans University, South Korea"
 url                      : https://yujinh22.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yujinh22/yujinh22.github.io"
