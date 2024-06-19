@@ -3,8 +3,8 @@ title: "DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstructi
 collection: publications
 permalink: /publication/dragon
 excerpt: 'Description'
-date: July, 2024
-venue: ICCP 2024
+date: 2024-07-22
+Conference: ICCP 2024
 imageurl: '/images/profile.png' 
 paperurl: '/files/paper1.pdf'
 github: https://github.com/yujinh22/dragon/
