@@ -11,12 +11,12 @@ github: https://github.com/yujinh22/dragon/
 citation: '<strong>Y. Ham</strong>, M. Michalkiewicz, G. Balakrishnan (2024). &quot;DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction; <i>arXiv preprint</i> arXiv:2311.18064.'
 ---
 <div style="text-align:center;">
-  <p style="color:gray">Oral at Responsible Generative AI Workshop, CVPR 2024</p>
+  <p style="color:gray">ICCP 2024</p>
 
-  <strong><a href="https://krishk97.github.io/"> Krish Kabra</a><sup>1</sup></strong>, <a href="https://katiemlewis.github.io/">Kathleen M. Lewis</a><sup>2</sup>, <a href="https://www.guhabalakrishnan.com/">Guha Balakrishnan</a><sup>1,*</sup><br>
+  <strong><a href="https://yujinh22.github.io/"> Yujin Ham</a><sup>1</sup></strong>, <a href="https://yujinh22.github.io/">
+Mateusz Michalkiewicz</a><sup>1</sup>, <a href="https://www.guhabalakrishnan.com/">Guha Balakrishnan</a><sup>1,*</sup><br>
 
   <sup>1</sup>Rice University<br>
-  <sup>2</sup>Massachusetts Institute of Technology<br>
   <sup>*</sup>Corresponding author: guha@rice.edu<br>
   <br>
 </div>
