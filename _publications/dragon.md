@@ -2,18 +2,18 @@
 title: "DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction"
 collection: publications
 permalink: /publication/dragon
-excerpt: 'Description'
-date: 2024-07-22
-Conference: ICCP 2024
-imageurl: '/images/profile.png' 
+excerpt: "TBU"
+date: 2024-5-22
 paperurl: '/files/paper1.pdf'
-github: https://github.com/yujinh22/dragon/
+imageurl: '/images/profile.png' 
+# github: https://github.com/yujinh22/dragon/
+conference: ICCP 2024
 citation: '<strong>Y. Ham</strong>, M. Michalkiewicz, G. Balakrishnan (2024). &quot;DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction&quot; <i>arXiv preprint</i> arXiv:2311.18064.'
 ---
 <div style="text-align:center;">
   <p style="color:gray">ICCP 2024</p>
 
-  <strong><a href="https://yujinh22.github.io/"> Yujin Ham</a><sup>1</sup></strong>, <a href="https://yujinh22.github.io/">
+  <strong><a href="https://yujinh22.github.io/"> Yujin Ham</a><sup>1</sup></strong>, <a href="https://toomanymatts.github.io/">
 Mateusz Michalkiewicz</a><sup>1</sup>, <a href="https://www.guhabalakrishnan.com/">Guha Balakrishnan</a><sup>1,*</sup><br>
 
   <sup>1</sup>Rice University<br>
@@ -21,28 +21,22 @@ Mateusz Michalkiewicz</a><sup>1</sup>, <a href="https://www.guhabalakrishnan.com
   <br>
 </div>
 
-[<i class="ai ai-arxiv-square ai-fw"></i> arXiv](https://arxiv.org/abs/2311.18064){:.btn .btn-dark style="text-decoration: none;"} [<i class="fas fa-fw fa-file-pdf"></i> Paper](/../../files/gelda.pdf){:.btn .btn-dark style="text-decoration: none;"} [<i class="fab fa-fw fa-github"></i> Code](https://github.com/krishk97/gelda/){:.btn .btn-dark style="text-decoration: none;"} 
+[<i class="fas fa-fw fa-file-pdf"></i> Paper](/../../files/2024_ICCP_Dragon_v4.pdf){:.btn .btn-dark style="text-decoration: none;"} [<i class="ai ai-arxiv-square ai-fw"></i> Data](https://drive.google.com/drive/folders/14UApt73KQqZYs6S3ymagYX13r7IHy1gw){:.btn .btn-dark style="text-decoration: none;"} [<i class="fab fa-fw fa-github"></i> Code (TBU)](https://yujinh22.github.io/){:.btn .btn-dark style="text-decoration: none;"} 
 {: style="text-align: center"}
 
-<center><img src = '/images/publications/gelda/pipeline_gelda.png'></center>
+<center><img src = '/images/dragon_figure.png'></center>
 
 ## Abstract
 <p style="text-align:justify;">
-  Bias analysis is a crucial step in the process of creating fair datasets for training and evaluating computer vision models. The bottleneck in dataset analysis is annotation, which typically requires: (1) specifying a list of attributes relevant to the dataset domain, and (2) classifying each image-attribute pair. While the second step has made rapid progress in automation, the first has remained human-centered, requiring an experimenter to compile lists of in-domain attributes. However, an experimenter may have limited foresight leading to annotation "blind spots," which in turn can lead to flawed downstream dataset analyses. To combat this, we propose GELDA, a nearly automatic framework that leverages large generative language models (LLMs) to propose and label various attributes for a domain. GELDA takes a user-defined domain caption (e.g., "a photo of a bird," "a photo of a living room") and uses an LLM to hierarchically generate attributes. In addition, GELDA uses the LLM to decide which of a set of vision-language models (VLMs) to use to classify each attribute in images. Results on real datasets show that GELDA can generate accurate and diverse visual attribute suggestions, and uncover biases such as confounding between class labels and background features. Results on synthetic datasets demonstrate that GELDA can be used to evaluate the biases of text-to-image diffusion models and generative adversarial networks. Overall, we show that while GELDA is not accurate enough to replace human annotators, it can serve as a complementary tool to help humans analyze datasets in a cheap, low-effort, and flexible manner.
+  3D building reconstruction from imaging data is an important task for many applications ranging from urban planning to reconnaissance. Modern Novel View synthesis (NVS) methods like NeRF and Gaussian Splatting offer powerful techniques for developing 3D models from natural 2D imagery in an unsupervised fashion. These algorithms generally require input training views surrounding the scene of interest, which, in the case of large buildings, is typically not available across all camera elevations. In particular, the most readily available camera viewpoints at scale across most buildings are at near-ground (e.g., with mobile phones) and aerial (drones) elevations. However, due to the significant difference in viewpoint between drone and ground image sets, camera registration -- a necessary step for NVS algorithms -- fails. In this work we propose a method, DRAGON, that can take drone and ground building imagery as input and produce a 3D NVS model. The key insight of DRAGON is that intermediate elevation imagery may be extrapolated by an NVS algorithm itself in an iterative procedure with perceptual regularization, thereby bridging the visual feature gap between the two elevations and enabling registration. We compiled a semi-synthetic dataset of 9 large building scenes using Google Earth Studio, and quantitatively and qualitatively demonstrate that DRAGON can generate compelling renderings on this dataset compared to baseline strategies.
 </p>
 
 ## Citation
 ```bibitex
-@article{kabra2023gelda,  
-  title={GELDA: A generative language annotation framework to reveal visual biases in datasets}, 
-  author={Kabra, Krish and Lewis, Kathleen M and Balakrishnan, Guha},
-  journal={arXiv preprint arXiv:2311.18064}, 
-  year={2023}
+@article{TBU,  
+  title={TBU}, 
+  author={TBU},
+  journal={TBU}, 
+  year={2024}
 }
 ```
-
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
