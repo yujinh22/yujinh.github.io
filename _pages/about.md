@@ -13,9 +13,12 @@ My research interests encompass computer vision, deep learning, and their downst
 
 Before joining Rice, I completed my B.S and M.S. in [Electrical and Computer Engineering](https://eceweb.rice.edu/) at [Ewha Womans [sic] University](https://www.ewha.ac.kr/ewhaen/index.do). My master's thesis concerned quality-adaptive compression artifact removal by exploiting domain adaptation, advised by [Prof. Jewon Kang](https://sagittak.wixsite.com/icplab/professor). Outside of research and academia, I enjoy camping, hiking, and climbing.
 
-Updates
-======
-I will be presenting at ICCP 2024 in Switzerland! [link](https://yujinh22.github.io/publication/dragon)
+
+## Updates
+* I will be presenting at ICCP 2024 in Switzerland! [link](https://yujinh22.github.io/publication/dragon)
+
+-------------------------
+
 
 #### Site Credits
 <sup><sub>This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. 
