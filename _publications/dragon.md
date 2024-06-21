@@ -5,7 +5,7 @@ permalink: /publication/dragon
 excerpt: "TBU"
 date: 2024-5-22
 paperurl: '/files/paper1.pdf'
-imageurl: '/images/profile.png' 
+imageurl: '/images/dragon_figure.png' 
 # github: https://github.com/yujinh22/dragon/
 conference: ICCP 2024
 citation: '<strong>Y. Ham</strong>, M. Michalkiewicz, G. Balakrishnan (2024). &quot;DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction&quot; <i>arXiv preprint</i> arXiv:2311.18064.'
