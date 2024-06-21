@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Curriculum Vitae"
-permalink: "yujinh22.github.io/files/yujin_cv.pdf"
+permalink: '/files/yujin_cv.pdf'
 author_profile: true
 redirect_from:
   - /resume
