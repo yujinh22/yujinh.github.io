@@ -2,11 +2,12 @@
 title: "DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction"
 collection: publications
 permalink: /publication/dragon
-excerpt: "TBU"
-date: 2024-5-22
-paperurl: '/files/paper1.pdf'
-imageurl: '/images/dragon_figure.png' 
-# github: https://github.com/yujinh22/dragon/
+excerpt: "A method for reconstructing 3D scenes of large buildings by integrating drone and ground-level images through iterative view synthesis in the intermediate levels"
+date: 2024-7-22
+paperurl: '/files/2024_ICCP_Dragon_v4.pdf'
+imageurl: '/images/dragon_figure.jpg' 
+# github: https://github.com/yujinh22/
+# github: [metadata]
 conference: ICCP 2024
 citation: '<strong>Y. Ham</strong>, M. Michalkiewicz, G. Balakrishnan (2024). &quot;DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction&quot; <i>arXiv preprint</i> arXiv:2311.18064.'
 ---
@@ -21,15 +22,18 @@ Mateusz Michalkiewicz</a><sup>1</sup>, <a href="https://www.guhabalakrishnan.com
   <br>
 </div>
 
-[<i class="fas fa-fw fa-file-pdf"></i> Paper](/../../files/2024_ICCP_Dragon_v4.pdf){:.btn .btn-dark style="text-decoration: none;"} [<i class="ai ai-arxiv-square ai-fw"></i> Data](https://drive.google.com/drive/folders/14UApt73KQqZYs6S3ymagYX13r7IHy1gw){:.btn .btn-dark style="text-decoration: none;"} [<i class="fab fa-fw fa-github"></i> Code (TBU)](https://yujinh22.github.io/){:.btn .btn-dark style="text-decoration: none;"} 
+[<i class="fas fa-fw fa-file-pdf"></i> Paper](/../../files/2024_ICCP_Dragon_v4.pdf){:.btn .btn-dark style="text-decoration: none;"} [<i class="ai ai-arxiv-square ai-fw"></i> Data](https://drive.google.com/drive/folders/14UApt73KQqZYs6S3ymagYX13r7IHy1gw){:.btn .btn-dark style="text-decoration: none;"} [<i class="fab fa-fw fa-github"></i> Code (TBU)](https://yujinh22.github.io/publication/dragon){:.btn .btn-dark style="text-decoration: none;"} 
 {: style="text-align: center"}
 
-<center><img src = '/images/dragon_figure.png'></center>
+<center><img src = '/images/dragon.png'></center>
 
 ## Abstract
 <p style="text-align:justify;">
   3D building reconstruction from imaging data is an important task for many applications ranging from urban planning to reconnaissance. Modern Novel View synthesis (NVS) methods like NeRF and Gaussian Splatting offer powerful techniques for developing 3D models from natural 2D imagery in an unsupervised fashion. These algorithms generally require input training views surrounding the scene of interest, which, in the case of large buildings, is typically not available across all camera elevations. In particular, the most readily available camera viewpoints at scale across most buildings are at near-ground (e.g., with mobile phones) and aerial (drones) elevations. However, due to the significant difference in viewpoint between drone and ground image sets, camera registration -- a necessary step for NVS algorithms -- fails. In this work we propose a method, DRAGON, that can take drone and ground building imagery as input and produce a 3D NVS model. The key insight of DRAGON is that intermediate elevation imagery may be extrapolated by an NVS algorithm itself in an iterative procedure with perceptual regularization, thereby bridging the visual feature gap between the two elevations and enabling registration. We compiled a semi-synthetic dataset of 9 large building scenes using Google Earth Studio, and quantitatively and qualitatively demonstrate that DRAGON can generate compelling renderings on this dataset compared to baseline strategies.
 </p>
+
+## Results
+
 
 ## Citation
 ```bibitex

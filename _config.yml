@@ -14,7 +14,7 @@ description              : &description "Ph.D. student in Electrical and Compute
 url                      : https://yujinh22.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yujinh22/yujinh22.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yujin Ham (함유진)"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Ph.D. student in ECE at Rice University; M.S (2022) and B.S (2020) in EE, Ewha Womans University, Seoul, South Korea"
   location         : "Houston, Texas"
   employer         :

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Curriculum Vitae"
-permalink: '/files/krish-kabra-cv.pdf'
+permalink: '/files/Yujin_CV_20221205.pdf'
 author_profile: true
 redirect_from:
   - /resume
