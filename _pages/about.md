@@ -11,9 +11,7 @@ redirect_from:
 Hi! I am currently a Ph.D. student in [Electrical and Computer Engineering](https://eceweb.rice.edu/) at [Rice University](https://www.rice.edu/).
 My research interests encompass computer vision, deep learning, and their downstream applications. My primarily focus lies on 3D scene understanding, including 3D reconstruction and human social behavior analysis in 3D environments.
 
-Before joining Rice, I completed my B.S and M.S. in [Electrical and Computer Engineering](https://eceweb.rice.edu/) at [Ewha Womans [sic] University](https://www.ewha.ac.kr/ewhaen/index.do). My master's thesis concerned quality-adaptive compression artifact removal by exploiting domain adaptation, advised by [Prof. Jewon Kang](https://sagittak.wixsite.com/icplab/professor).
-
-Outside of research and academia, I enjoy camping, hiking, and climbing.
+Before joining Rice, I completed my B.S and M.S. in [Electrical and Computer Engineering](https://eceweb.rice.edu/) at [Ewha Womans [sic] University](https://www.ewha.ac.kr/ewhaen/index.do). My master's thesis concerned quality-adaptive compression artifact removal by exploiting domain adaptation, advised by [Prof. Jewon Kang](https://sagittak.wixsite.com/icplab/professor). Outside of research and academia, I enjoy camping, hiking, and climbing.
 
 Updates
 ======
