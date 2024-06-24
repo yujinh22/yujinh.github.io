@@ -16,7 +16,7 @@ Before joining Rice, I completed my B.S and M.S. in [Electrical and Computer Eng
 
 ## Updates
 * I will be presenting at ICCP 2024 in Switzerland! [link](https://yujinh22.github.io/publication/dragon)
-
+* I received the ICCP 2024 Student Travel Award! [link](https://iccp-conference.org/iccp2024/student-travel-award/)
 -------------------------
 
 
