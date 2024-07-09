@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yujin Ham (함유진)"
+  name             : "Yujin Ham"
   avatar           : "profile.png"
   bio              : "Ph.D. student in ECE at Rice University; M.S (2022) and B.S (2020) in EE, Ewha Womans University, Seoul, South Korea"
   location         : "Houston, Texas"
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "yujin-ham-ee"
-  orcid            : 
+  orcid            : "https://orcid.org/0009-0004-0027-026X"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
