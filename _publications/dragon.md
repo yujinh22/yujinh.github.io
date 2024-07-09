@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/dragon
 excerpt: "A method for reconstructing 3D scenes of large buildings by integrating drone and ground-level images through iterative view synthesis in the intermediate levels"
 date: 2024-7-22
-paperurl: 'https://arxiv.org/submit/5693541/view'
+paperurl: 'https://arxiv.org/pdf/2407.01761'
 imageurl: '/images/dragon_figure.jpg' 
 # github: https://github.com/yujinh22/
 # github: [metadata]
@@ -22,7 +22,7 @@ Mateusz Michalkiewicz</a><sup>1</sup>, <a href="https://www.guhabalakrishnan.com
   <br>
 </div>
 
-[<i class="fas fa-fw fa-file-pdf"></i> Paper](https://arxiv.org/submit/5693541/view){:.btn .btn-dark style="text-decoration: none;"} [<i class="ai ai-arxiv-square ai-fw"></i> Data](https://drive.google.com/drive/folders/14UApt73KQqZYs6S3ymagYX13r7IHy1gw){:.btn .btn-dark style="text-decoration: none;"} [<i class="fab fa-fw fa-github"></i> Code (TBU)](https://yujinh22.github.io/publication/dragon){:.btn .btn-dark style="text-decoration: none;"} 
+[<i class="fas fa-fw fa-file-pdf"></i> Paper](https://arxiv.org/pdf/2407.01761){:.btn .btn-dark style="text-decoration: none;"} [<i class="ai ai-arxiv-square ai-fw"></i> Data](https://drive.google.com/drive/folders/14UApt73KQqZYs6S3ymagYX13r7IHy1gw){:.btn .btn-dark style="text-decoration: none;"} [<i class="fab fa-fw fa-github"></i> Code (Coming Soon!)](https://yujinh22.github.io/publication/dragon){:.btn .btn-dark style="text-decoration: none;"} 
 {: style="text-align: center"}
 
 <center><img src = '/images/dragon.png'></center>s
