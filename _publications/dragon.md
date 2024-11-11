@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/dragon
 excerpt: "A method for reconstructing 3D scenes of large buildings by integrating drone and ground-level images through iterative view synthesis in the intermediate levels"
 date: 2024-7-22
-paperurl: 'https://arxiv.org/pdf/2407.01761'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10644903'
 imageurl: '/images/dragon_figure.jpg' 
 # github: https://github.com/yujinh22/
 # github: [metadata]
